@@ -16,6 +16,7 @@ It is a portfolio to showcase my ability to perform:
   <li>Audio_analytics_6_tracks_gitcopy.ipynb</li>
   <li>Audio_Analytics_downloading_and_mfcc.ipynb</li>
   <li>Audio analytics - basic model creation.ipynb</li>
+  <li>Audio Analytics - solving the overfit.ipynb</li>
 </ul>
   
 Under updatation.

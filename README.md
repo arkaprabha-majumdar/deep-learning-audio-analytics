@@ -6,6 +6,7 @@ It is a portfolio to showcase my ability to perform:
   <li>audio processing and manipulation</li>
   <li>spectrum plots and spectrograms</li>
   <li>MFCC coefficient matrix generation</li>
+  <li>Neural Networks using TF.keras</li>
   <li>command of linux CLI in Jupyter</li>
   <li>Python</li>
  </ul>
@@ -14,6 +15,7 @@ It is a portfolio to showcase my ability to perform:
  <ul>
   <li>Audio_analytics_6_tracks_gitcopy.ipynb</li>
   <li>Audio_Analytics_downloading_and_mfcc.ipynb</li>
+  <li>Audio analytics - basic model creation.ipynb</li>
 </ul>
   
 Under updatation.
